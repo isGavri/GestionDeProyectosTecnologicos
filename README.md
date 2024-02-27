@@ -2,10 +2,10 @@
 ### Calculadora basica
 Programa para calcular las 4 operaciones basicas entre dos numeros de dos cifras dadas por el usuario
 ## Suma
-![ejecucion del programa](image)
+![ejecucion del programa](Images/image)
 ## Resta
-![ejecucion del programa](image2)
+![ejecucion del programa](Images/image2)
 ## Multiplicacion 
-![ejecucion del programa](image3)
+![ejecucion del programa](Images/image3)
 ## Division
-![ejecucion del programa](image4)
+![ejecucion del programa](Images/image4)
